@@ -1,4 +1,3 @@
-# Hi there, I'm liqttt 👋 
 # Hey there, I'm liqttt 👋
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+Problem+Solver;Open+Source+Enthusiast;Always+Building+Something+Cool" alt="Typing SVG" />
