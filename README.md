@@ -1,4 +1,4 @@
-# Hey there, I'm Emir / liqttt 👋
+# Hey there, I'm liqttt 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=580&lines=Game+Optimization+%26+Low-Level+Performance;Rendering+Engines+%26+Graphics+Exploration;Building+Practical+Tools+That+Actually+Help;Rust+%E2%80%A2+Java+%E2%80%A2+Python+Craftsman" alt="Typing SVG" />
@@ -16,7 +16,6 @@
 
 ```yaml
 identity:
-  name: Emir
   alias: liqttt
   role: Systems & Performance Tinkerer
 
@@ -26,10 +25,9 @@ passions:
   - Designing useful tools & software to solve real problems 💡
 
 tech_stack:
-  primary: [Rust 🦀, Java ☕, Python 🐍]
+  primary: [Rust, Java, Python]
   focus_areas: [Low-level Optimization, Memory Efficiency, Rendering, Tooling]
 
-motto: "Why settle for standard when you can shave off milliseconds?"
 ```
 
 ---
