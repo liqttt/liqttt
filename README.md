@@ -23,20 +23,19 @@
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Horizon** | Working on graphics rendering mechanics & performance improvements | [Repository](#) |
-| **Game Performance Lab** | Custom experiments, memory efficiency benchmarks & optimization tools | [Details](#) |
+| **Horizon** | Working on graphics rendering mechanics & performance improvements | [Repository](#https://github.com/horizon-rust) |
+| **Game Performance Lab** | Custom experiments, memory efficiency benchmarks & optimization tools | [Details](#https://github.com/horizon-rust/horizon/issues/17243) |
 | **Useful Utilities** | Open-source micro-tools built to help other developers | [View All](https://github.com/liqttt?tab=repositories) |
 
 ---
 
 ### 💬 Connect
 
-Feel free to reach out if you want to collaborate on something cool or just talk tech:
 
 * **Discord:** `liqt_`
 * **GitHub:** [@liqttt](https://github.com/liqttt)
 
 ---
 <p align="center">
-  <sub>Simple, focused, and always learning.</sub>
+  <sub></sub>
 </p>
