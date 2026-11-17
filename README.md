@@ -23,8 +23,8 @@
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Horizon** | Working on graphics rendering mechanics & performance improvements | [Repository](#https://github.com/horizon-rust) |
-| **Game Performance Lab** | Custom experiments, memory efficiency benchmarks & optimization tools | [Details](#https://github.com/horizon-rust/horizon/issues/17243) |
+| **Horizon** | Working on graphics rendering mechanics & performance improvements | [Repository](https://github.com/horizon-rust) |
+| **Game Performance Lab** | Custom experiments, memory efficiency benchmarks & optimization tools | [Details](https://github.com/horizon-rust/horizon/issues/17243) |
 | **Useful Utilities** | Open-source micro-tools built to help other developers | [View All](https://github.com/liqttt?tab=repositories) |
 
 ---
