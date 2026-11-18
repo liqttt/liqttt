@@ -23,7 +23,7 @@
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Helping Rendering and Performance on Horizon (currently in dev.)** | Custom experiments, memory efficiency benchmarks & optimization tools | [Meshlet partitioning and hardware mesh shader terrain pipeline](https://github.com/horizon-rust/horizon/issues/17243) |
+| **Horizon (in dev.)** | GPU-driven terrain rendering pipeline utilizing meshlet partitioning and hardware mesh shaders for high-throughput geometry processing | [Meshlet partitioning and hardware mesh shader terrain pipeline](https://github.com/horizon-rust/horizon/issues/17243) |
 | **Useful Utilities** | Open-source micro-tools built to help other developers | [View All](https://github.com/liqttt?tab=repositories) |
 
 ---
