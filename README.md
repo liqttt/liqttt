@@ -5,7 +5,7 @@
 
 ---
 
-### 🌿 What I Spend Time On
+###  What I Spend Time On
 
 * **Game & System Performance** — Diving into low-level bottlenecks, profiling, and finding ways to squeeze out extra frames and efficiency.
 * **Rendering & Graphics** — Exploring render passes, shaders, and visual systems (currently focused on rendering aspects in the Horizon project).
