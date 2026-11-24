@@ -23,7 +23,7 @@
 
 | Project | Description | Links |
 | :--- | :--- | :---: |
-| **Horizon** | GPU-driven terrain rendering pipeline utilizing meshlet partitioning and hardware mesh shaders for high-throughput geometry processing | [Meshlet partitioning and hardware mesh shader terrain pipeline](https://github.com/horizon-rust/horizon/issues/17243) |
+| **Horizon** | GPU-driven terrain rendering pipeline utilizing meshlet partitioning and hardware mesh shaders for high-throughput geometry processing and general bug fixing | [Meshlet partitioning and hardware mesh shader terrain pipeline](https://github.com/horizon-rust/horizon/issues/17243) |
 | **Useful Utilities** | Open-source micro-tools built to help other developers | [View All](https://github.com/liqttt?tab=repositories) |
 
 ---
